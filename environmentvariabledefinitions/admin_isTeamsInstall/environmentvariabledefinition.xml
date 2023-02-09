@@ -1,0 +1,14 @@
+<environmentvariabledefinition schemaname="admin_isTeamsInstall">
+  <defaultvalue>yes</defaultvalue>
+  <description default="DO NOT EDIT. This is used to determine if this install is in a Production environment or Dataverse for Teams environment and is set for you on install">
+    <label description="DO NOT EDIT. This is used to determine if this install is in a Production environment or Dataverse for Teams environment and is set for you on install" languagecode="1033" />
+  </description>
+  <displayname default="is Teams Install">
+    <label description="is Teams Install" languagecode="1033" />
+  </displayname>
+  <introducedversion>3.10</introducedversion>
+  <iscustomizable>1</iscustomizable>
+  <isrequired>0</isrequired>
+  <secretstore>0</secretstore>
+  <type>100000002</type>
+</environmentvariabledefinition>
